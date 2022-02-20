@@ -29,6 +29,5 @@ public class ex13 {
             else
                 System.out.printf("틀렸습니다. %n%n");
         }
-렸   }
+  }
 }
-.
